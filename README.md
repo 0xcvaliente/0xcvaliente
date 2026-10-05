@@ -39,9 +39,9 @@ Today, I’m co-founding a Nordic AI recruitment startup at Credo Labs and compl
 
 | Project | Focus & contribution |
 | --- | --- |
-| [Start Norway](https://cliffordvaliente.framer.website/projects/start-norge) | Digital transformation: brought collaboration, CRM, project management, and web tools into a maintainable operational platform. |
-| [Exercise Is Medicine Norway](https://cliffordvaliente.framer.website/projects/exercise-is-medicine) | IT infrastructure: mapped daily workflows, introduced a shared workspace, and delivered a website with team onboarding. |
-| [Pagila reporting](https://github.com/cliffordvaliente/PyExercise5) | Academic project: built a Python, PostgreSQL, and Streamlit reporting app to explore rental and revenue data using AI-assisted programming. |
+| [Start Norway](https://cliffordvaliente.vercel.app/en#work) | Digital transformation: brought collaboration, CRM, project management, and web tools into a maintainable operational platform. |
+| [Exercise Is Medicine Norway](https://cliffordvaliente.vercel.app/en#work) | IT infrastructure: mapped daily workflows, introduced a shared workspace, and delivered a website with team onboarding. |
+| [Pagila reporting](https://cliffordvaliente.vercel.app/en#work) | Academic project: built a Python, PostgreSQL, and Streamlit reporting app to explore rental and revenue data using AI-assisted programming. |
 
 **Explore my public code:** [Valeur AI](https://github.com/0xcvaliente/Valeur-AI), a native macOS AI chat and workspace app · [AgricultureDeviceIoT](https://github.com/0xcvaliente/AgricultureDeviceIoT), an environmental monitoring project with sensor readings on an LCD and Wi-Fi web interface.
 
