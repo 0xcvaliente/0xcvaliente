@@ -1,6 +1,6 @@
 # Clifford Valiente
 
-**IT consultant & business systems professional · Co-founder at Credo Labs**  
+**IT Architect & business Systems Professional · Co-founder at Credo Labs**  
 Oslo, Norway · Open to opportunities
 
 [Portfolio](https://cliffordvaliente.vercel.app/en) · [Download CV](https://cliffordvaliente.vercel.app/clifford-valiente-cv.pdf) · [LinkedIn](https://www.linkedin.com/in/cliffordvaliente/) · [Email](mailto:clifford@valiente.no)
